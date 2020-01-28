@@ -1,5 +1,3 @@
-
-@@ -0,0 +1,16 @@
 class Application
 
   def call(env)
